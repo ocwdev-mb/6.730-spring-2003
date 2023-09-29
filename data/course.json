@@ -1,0 +1,59 @@
+{
+  "term": "Spring",
+  "year": "2003",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Materials Science and Engineering",
+      "Electronic Materials"
+    ],
+    [
+      "Science",
+      "Physics",
+      "Condensed Matter Physics"
+    ],
+    [
+      "Science",
+      "Physics",
+      "Electromagnetism"
+    ],
+    [
+      "Engineering",
+      "Electrical Engineering",
+      "Electronics"
+    ]
+  ],
+  "legacy_uid": "ec26fa47-771c-c4d2-cc3c-fdcbf54752f7",
+  "instructors": {
+    "content": [
+      "bdfd67e7-5fa6-ee75-129f-d69a47daebfe",
+      "efe6155e-197e-0eb1-0ef1-b8079db5ad49"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "9bc348f3-0a37-a2fe-e591-ee5d10bcc873",
+    "website": "6-730-physics-for-solid-state-applications-spring-2003"
+  },
+  "course_title": "Physics for Solid-State Applications",
+  "course_description": "This course examines classical and quantum models of electrons and lattice vibrations in solids, emphasizing physical models for elastic properties, electronic transport, and heat capacity. Topics covered include: crystal lattices, electronic energy band structures, phonon dispersion relatons, effective mass theorem, semiclassical equations of motion, and impurity states in semiconductors, band structure and transport properties of selected semiconductors, and connection of quantum theory of solids with quasifermi levels and Boltzmann transport used in device modeling.\n",
+  "department_numbers": [
+    "6"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "6.730",
+  "course_image_thumbnail": {
+    "content": "cae1b1a4-47dd-31a6-763f-e14b1e6c0ba4",
+    "website": "6-730-physics-for-solid-state-applications-spring-2003"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Projects with Examples"
+  ],
+  "site_uid": "a6cacfa7-3319-47c1-8df0-8263485f6941",
+  "site_short_id": "6.730-spring-2003",
+  "title": "Course Metadata"
+}
